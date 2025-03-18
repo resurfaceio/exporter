@@ -1,8 +1,8 @@
 # resurfaceio-exporter
 Export NDJSON from Resurface database
 
-This open-source Java utility exports API calls stored
-in a remote Resurface database to a local [NDJSON format](https://resurface.io/json.html) file.
+This open-source Java utility exports API calls from
+a remote Resurface database to a local [NDJSON](https://resurface.io/json.html) file.
 
 [![CodeFactor](https://www.codefactor.io/repository/github/resurfaceio/exporter/badge)](https://www.codefactor.io/repository/github/resurfaceio/exporter)
 [![Contributing](https://img.shields.io/badge/contributions-welcome-green.svg)](https://github.com/resurfaceio/exporter/blob/v3.7.x/CONTRIBUTING.md)
